@@ -1,4 +1,4 @@
-name: S3
+name: s3
 
 on:
   push:
